@@ -2,20 +2,17 @@
 
 ### URL : 
 
-## Description
-This is a simple calendar application that allows the user to save events for every hour of a typical work day (8am-5pm). The application runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
+https://heav3n21.github.io/WorkDayScheduler-Planner.github.io/
 
 ## User Story
 
-```md
 - AS AN employee with a busy schedule
 - I WANT to add important events to a daily planner
 - SO THAT I can manage my time effectively
-```
 
 ## Acceptance Criteria
 
-```md
+
 - GIVEN I am using a daily planner to create a schedule
 - WHEN I open the planner
 - THEN the current day is displayed at the top of the calendar
@@ -29,18 +26,7 @@ This is a simple calendar application that allows the user to save events for ev
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
-```
 
-## Usage
-- This interactive workday calendar is designed to be compatible with both desktop and mobile devices
-- It displays work hours of the day 8AM - 5PM, with the current day and date at the top. 
-- Each time block is color-coded to indicate whether it is in the past (gray), present (red), or future (green) 
-- There is an input field and save button for each time block, allowing users to store their schedule in their local storage.
+## Usage 
+When clicking on the application youll be able to see the date on the top and rows for the hours of the day.
 
-## Mock-Up
-![image](https://user-images.githubusercontent.com/118794860/216716629-5f683682-bfb6-401e-87f0-7327b0d20961.png)
-
-
-## Contributor:
-Joaquin Loya ©2023 All Rights Reserved.
-- - -
